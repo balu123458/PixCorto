@@ -8,7 +8,7 @@ import {
   Paper,
   Typography,
 } from "@material-ui/core";
-import { display } from "@material-ui/system";
+
 
 const useStyles = makeStyles({
   center: {

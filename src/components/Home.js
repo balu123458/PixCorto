@@ -7,11 +7,11 @@ import {
   makeStyles,
   Grid,
   Typography,
-  Box,
+ 
   useMediaQuery,
   useTheme,
   Button,
-  Grow,
+  
 } from "@material-ui/core";
 
 const useStyles = makeStyles({
@@ -60,12 +60,7 @@ const useStyles = makeStyles({
     alignItems: "center",
     display: "grid",
   },
-  text: {
-    padding: "25px",
-    justifyContent: "center",
-    alignItems: "center",
-    display: "grid",
-  },
+ 
   slideactive: {
     opacity: 1,
     transitionDuration: "1s",

@@ -1,12 +1,11 @@
 import { React, useState } from "react";
 import ListItem from "@material-ui/core/ListItem";
-import ListItemIcon from "@material-ui/core/ListItemIcon";
+
 import ListItemText from "@material-ui/core/ListItemText";
 import { makeStyles, Drawer, IconButton, List,Paper, Box,} from "@material-ui/core";
-import HomeRoundedIcon from "@material-ui/icons/HomeRounded";
+
 import MenuIcon from "@material-ui/icons/Menu";
-import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
-import InfoIcon from "@material-ui/icons/Info";
+
 import CloseIcon from '@material-ui/icons/Close';
 
 import { NavLink } from "react-router-dom";
@@ -63,26 +62,24 @@ const onClose=({onClick}) => setopenDrawer(false)
               
         <List className={classes.drawer}>
           <ListItem button >
-            <ListItemIcon>
-              <HomeRoundedIcon />
-            </ListItemIcon> 
+          
             <NavLink className ={classes.drawItems} to='/'> <ListItemText primary="Home"  onClick={onClose} /></NavLink>
           </ListItem>
           <ListItem button>
-            <ListItemIcon>
-              <ShoppingBasketIcon />
-            </ListItemIcon>
-            <NavLink className ={classes.drawItems} to='/products'><ListItemText primary="Products"  onClick={onClose}/> </NavLink>
+            
+            <NavLink className ={classes.drawItems} to='/events'><ListItemText primary="Events"  onClick={onClose}/> </NavLink>
           </ListItem>
           <ListItem button>
-            <ListItemIcon></ListItemIcon>
-            <NavLink className ={classes.drawItems} to='/services'><ListItemText primary="Services"  onClick={onClose}/> </NavLink>
+            
+            <NavLink className ={classes.drawItems} to='/discussions'><ListItemText primary="Discussions"  onClick={onClose}/> </NavLink>
           </ListItem>
           <ListItem button>
-            <ListItemIcon>
-              <InfoIcon />
-            </ListItemIcon>
-            <NavLink className ={classes.drawItems} to='/about'> <ListItemText primary="About Us"  onClick={onClose}/> </NavLink>
+            
+            <NavLink className ={classes.drawItems} to='/contactus'> <ListItemText primary="Contact Us"  onClick={onClose}/> </NavLink>
+          </ListItem>
+          <ListItem button>
+            
+            <NavLink className ={classes.drawItems} to='/subscription'> <ListItemText primary="Subscription"  onClick={onClose}/> </NavLink>
           </ListItem>
         </List>
         </Paper>
