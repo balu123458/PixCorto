@@ -58,7 +58,7 @@ const Navbar = () => {
               <img src={logo} className={classes.Logo} alt="logo" />
 
               <div className={classes.navGroup}>
-                <NavLink className={classes.navItems} to="/">
+                <NavLink className={classes.navItems} to="/PixCorto">
                   Home
                 </NavLink>
                 <NavLink className={classes.navItems} to="/events">

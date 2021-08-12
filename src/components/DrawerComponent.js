@@ -63,7 +63,7 @@ const onClose=({onClick}) => setopenDrawer(false)
         <List className={classes.drawer}>
           <ListItem button >
           
-            <NavLink className ={classes.drawItems} to='/'> <ListItemText primary="Home"  onClick={onClose} /></NavLink>
+            <NavLink className ={classes.drawItems} to='/PixCorto'> <ListItemText primary="Home"  onClick={onClose} /></NavLink>
           </ListItem>
           <ListItem button>
             
