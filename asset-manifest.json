@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/PixCorto/static/css/main.85a82c68.chunk.css",
-    "main.js": "/PixCorto/static/js/main.932894cf.chunk.js",
-    "main.js.map": "/PixCorto/static/js/main.932894cf.chunk.js.map",
+    "main.js": "/PixCorto/static/js/main.d9ccf416.chunk.js",
+    "main.js.map": "/PixCorto/static/js/main.d9ccf416.chunk.js.map",
     "runtime-main.js": "/PixCorto/static/js/runtime-main.85ccaacd.js",
     "runtime-main.js.map": "/PixCorto/static/js/runtime-main.85ccaacd.js.map",
-    "static/js/2.5264239e.chunk.js": "/PixCorto/static/js/2.5264239e.chunk.js",
-    "static/js/2.5264239e.chunk.js.map": "/PixCorto/static/js/2.5264239e.chunk.js.map",
+    "static/js/2.1c725572.chunk.js": "/PixCorto/static/js/2.1c725572.chunk.js",
+    "static/js/2.1c725572.chunk.js.map": "/PixCorto/static/js/2.1c725572.chunk.js.map",
     "index.html": "/PixCorto/index.html",
     "static/css/main.85a82c68.chunk.css.map": "/PixCorto/static/css/main.85a82c68.chunk.css.map",
-    "static/js/2.5264239e.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.5264239e.chunk.js.LICENSE.txt",
+    "static/js/2.1c725572.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.1c725572.chunk.js.LICENSE.txt",
     "static/media/event1.14ad63e2.jpg": "/PixCorto/static/media/event1.14ad63e2.jpg",
     "static/media/event3.ad8bdbbc.jpg": "/PixCorto/static/media/event3.ad8bdbbc.jpg",
     "static/media/logo.7b9a4205.png": "/PixCorto/static/media/logo.7b9a4205.png"
   },
   "entrypoints": [
     "static/js/runtime-main.85ccaacd.js",
-    "static/js/2.5264239e.chunk.js",
+    "static/js/2.1c725572.chunk.js",
     "static/css/main.85a82c68.chunk.css",
-    "static/js/main.932894cf.chunk.js"
+    "static/js/main.d9ccf416.chunk.js"
   ]
 }
