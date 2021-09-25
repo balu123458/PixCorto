@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PixCorto/static/css/main.c266bdf0.chunk.css",
-    "main.js": "/PixCorto/static/js/main.4853ca1b.chunk.js",
-    "main.js.map": "/PixCorto/static/js/main.4853ca1b.chunk.js.map",
+    "main.js": "/PixCorto/static/js/main.4f7257b1.chunk.js",
+    "main.js.map": "/PixCorto/static/js/main.4f7257b1.chunk.js.map",
     "runtime-main.js": "/PixCorto/static/js/runtime-main.85ccaacd.js",
     "runtime-main.js.map": "/PixCorto/static/js/runtime-main.85ccaacd.js.map",
-    "static/js/2.730f814b.chunk.js": "/PixCorto/static/js/2.730f814b.chunk.js",
-    "static/js/2.730f814b.chunk.js.map": "/PixCorto/static/js/2.730f814b.chunk.js.map",
+    "static/js/2.c1a756be.chunk.js": "/PixCorto/static/js/2.c1a756be.chunk.js",
+    "static/js/2.c1a756be.chunk.js.map": "/PixCorto/static/js/2.c1a756be.chunk.js.map",
     "index.html": "/PixCorto/index.html",
     "static/css/main.c266bdf0.chunk.css.map": "/PixCorto/static/css/main.c266bdf0.chunk.css.map",
-    "static/js/2.730f814b.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.730f814b.chunk.js.LICENSE.txt",
+    "static/js/2.c1a756be.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.c1a756be.chunk.js.LICENSE.txt",
     "static/media/Spinner-1s-200px.d92a361e.gif": "/PixCorto/static/media/Spinner-1s-200px.d92a361e.gif",
     "static/media/event1.14ad63e2.jpg": "/PixCorto/static/media/event1.14ad63e2.jpg",
     "static/media/event3.ad8bdbbc.jpg": "/PixCorto/static/media/event3.ad8bdbbc.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.85ccaacd.js",
-    "static/js/2.730f814b.chunk.js",
+    "static/js/2.c1a756be.chunk.js",
     "static/css/main.c266bdf0.chunk.css",
-    "static/js/main.4853ca1b.chunk.js"
+    "static/js/main.4f7257b1.chunk.js"
   ]
 }
