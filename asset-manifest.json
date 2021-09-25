@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/PixCorto/static/css/main.a2b634b5.chunk.css",
-    "main.js": "/PixCorto/static/js/main.660d3619.chunk.js",
-    "main.js.map": "/PixCorto/static/js/main.660d3619.chunk.js.map",
+    "main.css": "/PixCorto/static/css/main.c266bdf0.chunk.css",
+    "main.js": "/PixCorto/static/js/main.4853ca1b.chunk.js",
+    "main.js.map": "/PixCorto/static/js/main.4853ca1b.chunk.js.map",
     "runtime-main.js": "/PixCorto/static/js/runtime-main.85ccaacd.js",
     "runtime-main.js.map": "/PixCorto/static/js/runtime-main.85ccaacd.js.map",
-    "static/js/2.440c9120.chunk.js": "/PixCorto/static/js/2.440c9120.chunk.js",
-    "static/js/2.440c9120.chunk.js.map": "/PixCorto/static/js/2.440c9120.chunk.js.map",
+    "static/js/2.730f814b.chunk.js": "/PixCorto/static/js/2.730f814b.chunk.js",
+    "static/js/2.730f814b.chunk.js.map": "/PixCorto/static/js/2.730f814b.chunk.js.map",
     "index.html": "/PixCorto/index.html",
-    "static/css/main.a2b634b5.chunk.css.map": "/PixCorto/static/css/main.a2b634b5.chunk.css.map",
-    "static/js/2.440c9120.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.440c9120.chunk.js.LICENSE.txt",
+    "static/css/main.c266bdf0.chunk.css.map": "/PixCorto/static/css/main.c266bdf0.chunk.css.map",
+    "static/js/2.730f814b.chunk.js.LICENSE.txt": "/PixCorto/static/js/2.730f814b.chunk.js.LICENSE.txt",
     "static/media/Spinner-1s-200px.d92a361e.gif": "/PixCorto/static/media/Spinner-1s-200px.d92a361e.gif",
     "static/media/event1.14ad63e2.jpg": "/PixCorto/static/media/event1.14ad63e2.jpg",
     "static/media/event3.ad8bdbbc.jpg": "/PixCorto/static/media/event3.ad8bdbbc.jpg",
     "static/media/home1.477ef81a.jpg": "/PixCorto/static/media/home1.477ef81a.jpg",
     "static/media/home2.add148af.jpg": "/PixCorto/static/media/home2.add148af.jpg",
-    "static/media/logo.7b9a4205.png": "/PixCorto/static/media/logo.7b9a4205.png"
+    "static/media/logo.7b9a4205.png": "/PixCorto/static/media/logo.7b9a4205.png",
+    "static/media/App.css": "/PixCorto/static/media/pexels-francesco-ungaro-669319.c07954f2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.85ccaacd.js",
-    "static/js/2.440c9120.chunk.js",
-    "static/css/main.a2b634b5.chunk.css",
-    "static/js/main.660d3619.chunk.js"
+    "static/js/2.730f814b.chunk.js",
+    "static/css/main.c266bdf0.chunk.css",
+    "static/js/main.4853ca1b.chunk.js"
   ]
 }
